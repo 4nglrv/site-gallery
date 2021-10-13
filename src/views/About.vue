@@ -24,30 +24,32 @@
           <v-card-title>
             Привет, меня зовут Олег ✌️
           </v-card-title>
-          <v-card-subtitle>
-            Я тот самый студент который оканчивает колледж и уже жаждит работать в вебе)) 
-          </v-card-subtitle>
           <v-card-text>
-            Развиваюсь в frontend / backend направлении. Участник нескольких хакатонов, в одном из которых со своей командой занял призовое место в треке.
-            Работал со следующими технологиями:
+            Опыт разработки приложений с нуля. Учавствовал в стартапах и хакатонах. Имею опыт с следующими технологиями:
             <ul>
               <li class="pa-2">
-                <a href="https://github.com/hakuu1251/stars-microblog">React / Redux</a> – онлайн тест, сервис микроблогинга, поддержка CRM системы (https://socialcrm.ru);
+                React / Redux, Firebase – <a href="https://github.com/hakuu1251/online-tests">онлайн тест</a>, <a href="https://github.com/hakuu1251/stars-microblog">сервис микроблогинга</a>, <a href="https://socialcrm.ru/">поддержка CRM системы</a>;
               </li>
               <li class="pa-2">
-                <a href="https://github.com/hakuu1251/watts-battery-hackathon21">Vue.js</a> – веб-приложение для отслеживания статистики умной батареи (проект старый и делался на скорую руку но зато с ним мы заняли призовое место);
+                Next.js / Typescript, Django – <a href="https://overvest-prototype.vercel.app/">e-commerce платформа для бренда одежды</a>;
               </li>
               <li class="pa-2">
-               <a href="https://www.figma.com/file/QgBwEYxdOSXSxS2mfgSkZ8/Stars-microblog?node-id=7%3A8">Figma</a> – проектирование UI/UX дизайна для веб-приложения микроблога, интерактивной песочницы ViRunner, книжного магазина.
+                Vue.js / Vuex – <a href="https://github.com/hakuu1251/watts-battery-hackathon21">веб-приложение для отслеживания статистики умной батареи</a>;
+              </li>
+              <li class="pa-2">
+                Nuxt.js, Git flow – <a href="https://github.com/hakuu1251/idaproject-layout">веб-интерфейс для работы с товарами</a>, <a href="https://github.com/hakuu1251/ida-frontend-test">каталог товаров</a>;
+              </li>
+              <li class="pa-2">
+                Gulp / Rollup, Django, Docker, Nginx – сайт компании <a href="https://www.techmotive.ru/">Техмотив</a>, <a href="https://www.landhouse-spb.ru/">Landhouse</a>
               </li>
             </ul> 
-            Имею опыт работы с CSS-препроцессорами, с адаптивной / кроссбраузерной версткой.<br>
+            Отличные навыки работы с Figma, Adobe Photoshop. В веб-разработке уже в течении 3 лет..<br>
             <v-row class="pa-2 text-center">
               <v-col>
                 <a href="https://github.com/hakuu1251">Мой гитхаб</a>
               </v-col>
               <v-col>
-                <a href="https://t.me/ckofkwkfoflowp">Я в телеге</a>
+                <a href="https://t.me/ckofkwkfoflowp">Я в телеграм</a>
               </v-col>
             </v-row>
 

@@ -6,7 +6,7 @@
         justify="center"
         align="center"
       >
-      <h1 class="display-3 ma-4"> сайт-галерея </h1>
+      <h1 class="display-3 ma-4"> picsum api </h1>
       <Tabs />
       </v-row>
     </v-container>
