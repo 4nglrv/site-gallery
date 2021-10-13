@@ -77,6 +77,6 @@ export default {
 	transition: 0.22s ease-in-out;
 }
 .image-container:hover .custom-btn {
-	opacity: 80% !important;
+	opacity: 0.9;
 }
 </style>
